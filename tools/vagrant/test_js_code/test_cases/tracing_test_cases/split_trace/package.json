@@ -1,0 +1,17 @@
+{
+  "name": "split_trace",
+  "version": "1.0.0",
+  "description": "two functions execute in parallel after the first finishes",
+  "main": "split_trace.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wyatt",
+  "license": "ISC",
+  "dependencies": {
+    "openwhisk": "^3.18.0",
+    "zipkin": "^0.16.0",
+    "zipkin-context-cls": "^0.16.0",
+    "zipkin-transport-http": "^0.16.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "series",
+  "version": "1.0.0",
+  "description": "",
+  "main": "series.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wyatt",
+  "license": "ISC",
+  "dependencies": {
+    "openwhisk": "^3.18.0"
+  }
+}
